@@ -4,7 +4,8 @@
   "description": "Boilerplate for Create-React-App with an Express.js API",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prettify": "prettier --write ."
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ncbecker/cra-with-server-template/issues"
   },
-  "homepage": "https://github.com/ncbecker/cra-with-server-template#readme"
+  "homepage": "https://github.com/ncbecker/cra-with-server-template#readme",
+  "devDependencies": {
+    "prettier": "2.2.0"
+  }
 }
