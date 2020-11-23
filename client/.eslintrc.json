@@ -4,10 +4,9 @@
     "es2021": true
   },
   "extends": [
-    "eslint:recommended",
+    "../.eslintrc.json",
     "react-app",
     "react-app/jest",
-    "../.eslintrc.json",
     "plugin:react/recommended"
   ],
   "parserOptions": {
