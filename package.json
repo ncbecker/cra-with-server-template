@@ -1,0 +1,19 @@
+{
+  "name": "cra-with-server-template",
+  "version": "1.0.0",
+  "description": "Boilerplate for Create-React-App with an Express.js API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ncbecker/cra-with-server-template.git"
+  },
+  "author": "Nicolas Becker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ncbecker/cra-with-server-template/issues"
+  },
+  "homepage": "https://github.com/ncbecker/cra-with-server-template#readme"
+}
