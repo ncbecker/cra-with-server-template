@@ -12,18 +12,18 @@
 
 ## Technologies used:
 
-[Create-React-App](https://create-react-app.dev/)
-[Storybook](https://storybook.js.org/)
-[Express.js](http://expressjs.com/)
-[JEST](https://jestjs.io/)
-[Prettier](https://prettier.io/)
-[ESLint](https://eslint.org/)
-[stylelint](https://stylelint.io/)
-[Husky](https://github.com/typicode/husky)
-[Lint-Staged](https://github.com/okonet/lint-staged)
-[GitHub Node.js CI](https://docs.github.com/en/free-pro-team@latest/actions/guides/building-and-testing-nodejs)
-[nodemon](https://github.com/remy/nodemon)
-[concurrently](https://github.com/kimmobrunfeldt/concurrently)
+- [Create-React-App](https://create-react-app.dev/)
+- [Storybook](https://storybook.js.org/)
+- [Express.js](http://expressjs.com/)
+- [JEST](https://jestjs.io/)
+- [Prettier](https://prettier.io/)
+- [ESLint](https://eslint.org/)
+- [stylelint](https://stylelint.io/)
+- [Husky](https://github.com/typicode/husky)
+- [Lint-Staged](https://github.com/okonet/lint-staged)
+- [GitHub Node.js CI](https://docs.github.com/en/free-pro-team@latest/actions/guides/building-and-testing-nodejs)
+- [nodemon](https://github.com/remy/nodemon)
+- [concurrently](https://github.com/kimmobrunfeldt/concurrently)
 
 ## Useful resources regarding the setup:
 
