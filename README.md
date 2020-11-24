@@ -27,9 +27,9 @@
 
 ## Useful resources regarding the setup:
 
-https://create-react-app.dev/docs/proxying-api-requests-in-development
-https://devcenter.heroku.com/articles/runtime-principles#web-servers
-https://docs.npmjs.com/cli/v6/configuring-npm/package-json
-https://eslint.org/docs/rules/
-https://create-react-app.dev/docs/running-tests/
-https://testing-library.com/docs/dom-testing-library/api-queries/
+- https://create-react-app.dev/docs/proxying-api-requests-in-development
+- https://devcenter.heroku.com/articles/runtime-principles#web-servers
+- https://docs.npmjs.com/cli/v6/configuring-npm/package-json
+- https://eslint.org/docs/rules/
+- https://create-react-app.dev/docs/running-tests/
+- https://testing-library.com/docs/dom-testing-library/api-queries/
